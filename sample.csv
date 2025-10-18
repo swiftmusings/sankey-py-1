@@ -1,0 +1,26 @@
+Source,Target,Value
+Website,Lead Generation,100
+Referral,Lead Generation,75
+Cold Call,Lead Generation,50
+Lead Generation,Qualification,90
+Lead Generation,Nurturing,80
+Qualification,Proposal,70
+Nurturing,Proposal,60
+Proposal,Negotiation,50
+Proposal,Lost,20
+Negotiation,Closed Won,40
+Negotiation,Lost,10
+Closed Won,Upsell Opportunity,30
+Closed Won,Customer Support,40
+Upsell Opportunity,Upsell Won,20
+Upsell Opportunity,Upsell Lost,10
+Customer Support,Renewal,35
+Customer Support,Churn,5
+Renewal,Renewal Won,30
+Renewal,Renewal Lost,5
+Website,Direct Sale,15
+Referral,Direct Sale,10
+Direct Sale,Customer Support,20
+Direct Sale,Upsell Opportunity,5
+Upsell Won,Customer Support,15
+Renewal Won,Upsell Opportunity,10
